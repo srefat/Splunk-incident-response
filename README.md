@@ -1,12 +1,9 @@
-# 🛡️ Cybersecurity Portfolio — Shakhawat Hossain Refat
-
-A collection of hands-on cybersecurity labs, incident response exercises, and coursework.
-
----
+## Project
+** Name** Incident Response Lab — Splunk BOTSv1 Walkthrough
 
 ## 📁 Labs & Projects
 
-### Week 10 — Containment, Eradication & Recovery
+### Containment, Eradication & Recovery
 **Tool:** Splunk (BOTSv1 dataset)  
 **Scenario:** Investigated a real-world attack on `imreallynotbatman.com` (Wayne Enterprises)
 
